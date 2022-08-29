@@ -24,17 +24,17 @@ This uses an Arduino Mega 2650
  # pinouts
  Power
   - \<gnd\> \<-\> \<gnd-bus\>
-  - \<5v\> \<-\> \<5v-bus\>
+  - \<5v\> \<-\> \<5v-bus\><br>
 Analog
-  - \<A01\> \<-\> \<DHT11 Sensor\>
+  - \<A01\> \<-\> \<DHT11 Sensor\><br>
 Digital
   - \<2\> \<-\> \<TDS Meter 1.0 Sensor\>
   - \<3\> \<-\> \<Mechnical Relay A\>
   - \<4\> \<-\> \<Mechnical Relay B\>
-  - \<5\> \<-\> \<DS18B20 Sensor\>
+  - \<5\> \<-\> \<DS18B20 Sensor\><br>
 Serial
   - \<16 tx2(serial2)\> \<-\> \<ESP-01 rx\>
-  - \<17\> rx2(serial2) \<-\> \<ESP-01 tx\>
+  - \<17\> rx2(serial2) \<-\> \<ESP-01 tx\><br>
 
 ## The Problem
 I keep killing plants, I need to maintain automation even in the even of Network failure. All automation needs are to be self contained and perameters need to be subscribed to via MQTT and saved in the EEPROM.
