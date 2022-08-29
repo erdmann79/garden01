@@ -1,32 +1,171 @@
-# Prerequisites
-*.d
+# PlatformIO
+############
+.pio
+include/secrets.h
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Environments
+##############
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
+.python-version 
+/releases/*
+pip-wheel-metadata
+/poetry.toml
+poetry/core/*
 
-# Precompiled Headers
-*.gch
-*.pch
+# Unit test / coverage reports 
+htmlcov/ 
+.tox/ 
+.coverage 
+.coverage.* 
+.cache 
+.pytest_cache/ 
+nosetests.xml 
+coverage.xml 
+*.cover 
+.hypothesis/ 
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+# Images and Icons #
+####################
+*.png
+*.jpg
+*.gif
+*.tiff
+*.ico
+
+# Fonts #
+#########
+*.eot
+*.svg
+*.ttf
+*.woff
+
+# PyCharm #
+###########
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/aws.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Sublime Text #
+################
+*.tmlanguage.cache 
+*.tmPreferences.cache 
+*.stTheme.cache 
+*.sublime-workspace 
+*.sublime-project 
+sftp-config.json 
+Control.last-run 
+Control.ca-list 
+Control.ca-bundle 
+Control.system-ca-bundle 
+GitHub.sublime-settings 
+
+# Visual Studio Code # 
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+
+# Docs and research material #
+##############################
+*.doc
+*.docx
+*.rtf
+*.pdf
+
+# Compiled source #
+###################
+*.com
+*.class
 *.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
 *.exe
-*.out
-*.app
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+thumbs.db
+Thumbs.db
+
+# Django #
+######################
+*.log
+*.pot
+__pycache__
+db.sqlite3
+media
+
+# celery 
+celerybeat-schedule.*
+
+# Python # 
+######################
+*.py[cod] 
+*$py.class 
+
+# Distribution / packaging #
+############################################
+.Python build/ 
+develop-eggs/ 
+dist/ 
+downloads/ 
+eggs/ 
+.eggs/ 
+lib/ 
+lib64/ 
+parts/ 
+sdist/ 
+var/ 
+wheels/ 
+*.egg-info/ 
+.installed.cfg 
+*.egg 
+*.manifest 
+*.spec 
+
+# Custom
+########
+~$*.xlsx
+Jones_2019*.xlsx 
+#*.pyc
+Footer
