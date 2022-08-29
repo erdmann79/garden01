@@ -12,14 +12,10 @@ This uses an Arduino Mega 2650
 I keep killing plants, I need to maintain automated functions even in the even of Network failure All automation needs to be self contained and perameters need to be subscribed to(MQTT) and saved(EEPROM) in the even to power loss or network failure.
 
 ## Pictures
-![Breadboard1](./images/IMG_20220812_221020_01.jpg)
- <img src="./images/IMG_20220812_221020_01.jpg"  width="240">
+ <img src="./images/IMG_20220812_221020_01.jpg" alt="Breadboard1" width="240">
  
-![Breadboard2](./images/IMG_20220815_171640_01.jpg?raw=true)
- <img src="./images/IMG_20220815_171640_01.jpg"  width="240">
+ <img src="./images/IMG_20220815_171640_01.jpg" alt="Breadboard2" width="240">
  
-![HASS phone app](./images/Screenshot_20220816-222419.png?raw=true)
- <img src="./images/Screenshot_20220816-222419.png"  width="240">
+ <img src="./images/Screenshot_20220816-222419.png" alt="HASS phone app" width="240">
  
-![HASS Web Panel](./images/Screenshot from 2022-08-29 18-51-03.png?raw=true)
- <img src="/images/Screenshot from 2022-08-29 18-51-03.png"  width="240">
+ <img src="/images/Screenshot from 2022-08-29 18-51-03.png" alt="HASS Web Panel" width="240">
