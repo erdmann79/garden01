@@ -11,4 +11,9 @@ This uses an Arduino Mega 2650
 ## The Problem
 I keep killing plants, I need to maintain automated functions even in the even of Network failure All automation needs to be self contained and perameters need to be subscribed to(MQTT) and saved(EEPROM) in the even to power loss or network failure.
 
-![alt text](https://github.com/erdmann79/garden01/blob/master/images/IMG_20220812_221020_01.jpg?raw=true)
+![alt text](./images/IMG_20220812_221020_01.jpg?raw=true)
+![alt text](./images/IMG_20220812_221020_01.jpg?raw=true)
+![alt text](./images/IMG_20220812_221020_01.jpg?raw=true)
+![alt text](./images/Screenshot from 2022-08-29 18-51-03.png?raw=true)
+
+
