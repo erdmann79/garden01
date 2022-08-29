@@ -34,13 +34,13 @@ coverage.xml
 *.cover 
 .hypothesis/ 
 
-# Images and Icons #
-####################
-*.png
-*.jpg
-*.gif
-*.tiff
-*.ico
+### Images and Icons #
+######################
+##*.png
+##*.jpg
+##*.gif
+##*.tiff
+##*.ico
 
 # Fonts #
 #########
