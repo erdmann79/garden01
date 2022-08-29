@@ -13,6 +13,13 @@ I keep killing plants, I need to maintain automated functions even in the even o
 
 ## Pictures
 ![Breadboard1](./images/IMG_20220812_221020_01.jpg?raw=true)
+ <img src="./images/IMG_20220812_221020_01.jpg"  width="240">
+ 
 ![Breadboard2](./images/IMG_20220815_171640_01.jpg?raw=true)
+ <img src="./images/IMG_20220815_171640_01.jpg"  width="240">
+ 
 ![HASS phone app](./images/Screenshot_20220816-222419.png?raw=true)
+ <img src="./images/Screenshot_20220816-222419.png"  width="240">
+ 
 ![HASS Web Panel](./images/Screenshot from 2022-08-29 18-51-03.png?raw=true)
+ <img src="/images/Screenshot from 2022-08-29 18-51-03.png"  width="240">
