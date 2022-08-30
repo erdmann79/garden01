@@ -9,7 +9,7 @@ This uses an Arduino Mega 2650
  - 1 ESP-01 Wifi Module (flashed with AT firmware v1.7.4)
 
 ## The Problem
-I keep killing plants! I need to maintain automation even in the even of Network failure. All automation needs are to be self contained and perameters need to be subscribed to via MQTT and saved in the EEPROM.
+I keep killing plants! I need to maintain automation even in the event of network failure. All automations need to be self contained and perameters need to be subscribed to via MQTT and saved in the EEPROM.
 
 ## Hardware
 This uses an Arduino Mega 2650
@@ -21,7 +21,7 @@ This uses an Arduino Mega 2650
  - 1 ESP-01 Wifi Module (flashed with AT firmware v1.7.4)
 
 ### pinouts
- Power
+#### Power
   - \<gnd\> \<-\> \<gnd-bus\>
   - \<5v\> \<-\> \<5v-bus\><br>
 #### Analog
