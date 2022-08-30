@@ -38,9 +38,9 @@ This uses an Arduino Mega 2650
   - \<17\> rx2(serial2) \<-\> \<ESP-01 tx\><br>
 
 ### Compile
-Use ATmega2560 environment, Uno would reqire Soft Serial and 9600 baud to the ESP-01
-ESP-01 must have AT firmware v1.7.4
-change the ./includes/secrets.h.sample to match your network.
+ - Use ATmega2560 environment, Uno would reqire Soft Serial and 9600 baud to the ESP-01
+ - ESP-01 must have AT firmware v1.7.4
+ - Change the "./includes/secrets.h.sample" to match your network.
 
 ## todo
  - finsh pulling epoch time conversion so as to not write to EEPROM the date but only the saved times.
